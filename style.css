@@ -1,0 +1,95 @@
+body{
+    background-color: #DDDBDB;
+}
+
+#tag{
+    font-family: 'Special Elite', cursive;
+    font-size: 15px;
+    font-weight: bold;
+    color:rgb(125, 134, 134);
+}
+
+#title {
+    font-family: 'Special Elite', cursive;
+    font-size: 30px;
+}
+
+#img-caption {
+    font-size: 20px;
+    font-family: 'Special Elite', cursive;
+}
+
+#img-div{
+    background-color: white;
+}
+
+#tribute-link {
+    color: rgb(89, 0, 255);
+    font-weight: bold;
+}
+
+#tribute-info{
+    font-family: 'Poppins';
+    font-size: 12px;
+    text-align: left;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+#link{
+    font-family: 'Special Elite', cursive;
+    font-size: 12px;
+}
+
+#footer{
+    font-size: 10px;
+}
+
+.list li{
+   margin: 0 0 15px 0;
+}
+
+.txt {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.img {
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+.media{
+    border: 2px dotted #fd0a0a;
+    padding: 10px;
+    text-align: center;
+    margin: 0 0 15px 0;
+}
+
+.timeline{
+    font-size: 18px;
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+
+@media screen and (max-width: 800px) {
+    .column {
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+
+@media screen and (max-width: 600px) {
+    .column {
+        flex: 100%;
+        max-width: 100%;
+    }
+}
