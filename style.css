@@ -60,6 +60,13 @@
     margin-left: auto;
 } 
 
+pre {
+    max-width: 100%;
+    margin: 0 auto;
+    font-family: 'Poppins';
+    font-size: 12px;
+} 
+
 #tribute-link {
     color: rgb(89, 0, 255);
     font-weight: bold;
