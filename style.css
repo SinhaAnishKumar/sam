@@ -72,26 +72,26 @@ pre {
     font-weight: bold;
 }
 
-#link{
+#link {
     text-align: center;
     font-family: 'Special Elite', cursive;
     font-size: 12px;
 }
 
-#footer{
+#footer {
     font-size: 10px;
     text-align: center;
 }
 
-.media{
+.media {
     max-width: 600px;
     border: 2px dotted #fd0a0a;
     text-align: center;
     margin: 0 auto;
+    font-family: 'Poppins';
+    font-size: 12px;
 }
 
 .media p {
     margin: 10px auto;
-    font-family: 'Poppins';
-    font-size: 12px;
 }
