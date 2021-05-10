@@ -94,4 +94,12 @@ pre {
 
 .media p {
     margin: 10px auto;
+    font-family: 'Poppins';
+    font-size: 12px;
+}
+
+.media i {
+    margin: 10px auto;
+    font-family: 'Poppins';
+    font-size: 12px;
 }
