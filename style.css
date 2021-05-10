@@ -36,10 +36,11 @@
 }
 
 #img-caption {
-    font-size: 20px;
+    font-size: 15px;
     font-family: 'Special Elite', cursive;
     text-align: center;
     padding-bottom: 10px;
+    font-weight: bold;
 }
 
 #tribute-info {
