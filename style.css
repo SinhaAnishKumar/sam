@@ -24,7 +24,7 @@
 #img-div{
     max-width: 1000px;
     margin: 0 auto;
-    background-color: rgb(211, 211, 211);
+    background-color: rgb(211, 208, 208);
     padding: 0px;
     padding-bottom: 0px;
 }
@@ -36,12 +36,12 @@
 }
 
 #img-caption {
-    max-width: 1000Px;
+    max-width: 1000px;
     font-size: 12px;
+    font-weight: bold;
     font-family: 'Special Elite', cursive;
     text-align: center;
     padding-bottom: 10px;
-    font-weight: bold;
 }
 
 #tribute-info {
@@ -65,7 +65,7 @@
 }
 
 pre {
-    max-width: 100%;
+    max-width: 1000px;
     margin: 0 auto;
     font-family: 'Poppins';
     font-size: 12px;
