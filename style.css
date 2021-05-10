@@ -22,9 +22,9 @@
 }
 
 #img-div{
-    max-width: 50%;
+    max-width: 1000px;
     margin: 0 auto;
-    background-color: rgb(177, 174, 174);
+    background-color: rgb(211, 211, 211);
     padding: 0px;
     padding-bottom: 0px;
 }
@@ -36,7 +36,8 @@
 }
 
 #img-caption {
-    font-size: 15px;
+    max-width: 1000Px;
+    font-size: 12px;
     font-family: 'Special Elite', cursive;
     text-align: center;
     padding-bottom: 10px;
