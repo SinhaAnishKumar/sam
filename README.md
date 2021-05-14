@@ -1,4 +1,4 @@
-# TributePage
+# Tribute Page
 This is Sam Manekshaw Tribute Page Designed By @SinhaAnishKumar 💖.
 <br>It makes up the first part of @freecodecamp.org Responsive Web Design Projects 👨‍💻.
 <br>
